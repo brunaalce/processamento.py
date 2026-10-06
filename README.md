@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Licença](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 # Processamento de Dados com Python 🚀
 
 Repositório utilitário em Python com Pandas para manipulação eficiente de arquivos CSV e Excel, focado em validação e exploração de dados.
